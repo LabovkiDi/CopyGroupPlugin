@@ -7,8 +7,8 @@
     <ProjectGuid>{0D89CDC5-A21E-4500-9789-635F425E0A0D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CopyGroupPlugin</RootNamespace>
-    <AssemblyName>CopyGroupPlugin</AssemblyName>
+    <RootNamespace>CopyGroupPlugin_vers_2</RootNamespace>
+    <AssemblyName>CopyGroupPlugin_vers_2</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -49,7 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CopyGroup.cs" />
+    <Compile Include="CopyGroup_vers_2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
